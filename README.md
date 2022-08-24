@@ -14,6 +14,6 @@ The dataset used for this analysis was the shoes dataset. PySpark was used to pe
 
 ## Summary
 
-From looking at the data above, it can be concluded that there is no positivity bias for reviews in the Vine program but the dataset for Vine reviews is significantly smaller than the non-Vine reviews, so it would make it difficult to make a solid conclusion. 
+From looking at the data above, it can be concluded that there is no positivity bias for reviews in the Vine program but the dataset for Vine reviews is significantly smaller than the non-Vine reviews, so it would make it difficult to make a solid conclusion. In order to provide a more accurate analysis, a bigger dataset for the Vine reviews is needed.
 
-Additionally, when looking at the percentage of non-Vine 5 star reviews, we can see that this is an impressive number as it compares to the percentage of Vine reviews.
+Additionally, when looking at the percentage of non-Vine 5-star reviews, we can see that this is an impressive number as it compares to the percentage of Vine reviews.
