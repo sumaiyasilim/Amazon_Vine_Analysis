@@ -2,7 +2,7 @@
 
 ## Overview of the analysis of the Vine program
 
-The dataset used for this analysis was the shoes dataset. PySpark was used to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Then PySpark was used to determine if there was any bias towards favorable reviews from Vine members in the shoe dataset.
+This analysis was done on Amazon reviews written by members of the paid Amazon Vine program and non-members, using the shoes dataset. PySpark was used to determine if there was any bias towards favorable reviews from Vine members in the shoe dataset.
 
 ## Results
 
