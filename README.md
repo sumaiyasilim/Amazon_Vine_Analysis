@@ -13,3 +13,7 @@ The dataset used for this analysis was the shoes dataset. PySpark was used to pe
 - The percentage of Vine reviews that were 5 stars is 59.09% and for non-Vine reviews it was 53.64%
 
 ## Summary
+
+From looking at the data above, it can be concluded that there is no positivity bias for reviews in the Vine program but the dataset for Vine reviews is significantly smaller than the non-Vine reviews, so it would make it difficult to make a solid conclusion. 
+
+Additionally, when looking at the percentage of non-Vine 5 star reviews, we can see that this is an impressive number as it compares to the percentage of Vine reviews.
